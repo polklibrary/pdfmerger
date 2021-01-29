@@ -26,7 +26,9 @@ Standalone EXE which merges pdf files from many folders into one pdf.
 *Begin?  y or n, then enter.*
 1. If your criteria looks good, go ahead and type y and enter.
 
+
 **ORDERING**
-The application will order your folders and files by their names.
+
+The application will order the folders and files by their names.
 
 
